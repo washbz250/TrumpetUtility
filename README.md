@@ -18,5 +18,5 @@ If you have any questions/comments/concerns, use the same email to contact.
 
 Who do I talk to?
 =================
-Repository Owner: Zach Washburn, washbz250@gmail.com
+Repository Owner: Zach Washburn, washbz250@gmail.com.
 Email him for anything you need with this repository.
