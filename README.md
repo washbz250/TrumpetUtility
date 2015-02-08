@@ -1,20 +1,19 @@
 README
 -----------
-This is a Trumpet Utility (as obvious by title) app designed by Zachary Washburn. It will be used as a Cordova Android app and released to the Amazon App Store and possibly Google Play.
+Trumpet Utility is an app designed to assist trumpet players and provide a basic reference to many needed things (scales, notes, etc.). TrumpetUtility is built using HTML5, CSS3, and Javascript, but it is meant to be compiled with Cordova and used on Android devices. The Holo Theme came from https://github.com/zmyaro/holo-web, so use that if you wish to use the Android theme in your HTML pages.
 
 What is this repository for?
 ============================
-* A Cordova Android app's assets
+* TrumpetUtility HTML/CSS/JS files and assets
 * Version 1.0
 
 How do I get set up?
 ====================
-To run this app you need to compile it to Android/Build the app with Cordova and the Android Studio. Otherwise, you can view the assets in a web browser to see the layout of the pages and such
+If you would like to see this app in action, you can email washbz250@gmail.com for the compiled APK file to install on an Android device. Otherwise, you may clone the repo and view the web pages in a web browser to check if they work.
 
 Contribution guidelines
 ========================
-If you would like to contribute, please email Zach Washburn at washbz250@gmail.com to tell what you will do. He will then reply with either a "go ahead" or a reason why he wants the idea changed/not used.
-If you have any questions/comments/concerns, use the same email to contact.
+If you would like to contribute, please email Zach Washburn at washbz250@gmail.com to tell what you will do. If you have any questions/comments/concerns, use the same email to contact.
 
 Who do I talk to?
 =================
